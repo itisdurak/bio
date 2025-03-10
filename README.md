@@ -19,8 +19,8 @@
 Вот основные технологии, которые я использую:
 
 - **Java**: Основной язык программирования.
-- **Spring Framework**: Spring Boot, Spring MVC, Spring Data.
-- **Базы данных**: PostgreSQL, Hibernate.
+- **Spring Framework**: Spring Boot.
+- **Базы данных**: PostgreSQL.
 - **Системы контроля версий**: Git.
 - **Операционные системы**: Linux.
 - **Веб-технологии**: HTML, CSS, JavaScript (базовые знания).
